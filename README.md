@@ -1,4 +1,4 @@
-# Simple-Python-Projects
+# Simple-Python-Project
 beginner project
 
 Run main.py to play the game
