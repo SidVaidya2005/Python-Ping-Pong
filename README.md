@@ -53,9 +53,7 @@ python main.py
 
 ## Key remapping
 
-All key bindings are centralized in:
-
-`/home/runner/work/Python-Ping-Pong/Python-Ping-Pong/game_config.py`
+All key bindings are centralized in `game_config.py`.
 
 Update `CONTROL_BINDINGS` to remap controls.
 
